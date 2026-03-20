@@ -3,9 +3,10 @@
 ## Notes: Hides the character model from the Inspect panel
 ## IconTexture: Interface\Icons\Ability_Stealth
 ## Author: Collin Stevens
-## Version: 1.0.1
+## Version: v1.0.2
 ## X-Website: https://github.com/collinstevens/HideCharacterModelInInspect
 ## X-Curse-Project-ID: 1490754
 ## X-Wago-ID: bGoy8160
+## X-WoWI-ID: 27085
 
 HideCharacterModelInInspect.lua
