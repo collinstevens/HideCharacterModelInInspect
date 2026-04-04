@@ -1,11 +1,11 @@
 package-as: HideCharacterModelInInspect
 
 ignore:
+  - .claude
   - .github
   - .vscode
   - .gitignore
+  - media
+  - scripts
   - README.md
-  - logo.png
-  - logo.svg
-  - LICENSE
   - CLAUDE.md
